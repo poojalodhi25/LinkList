@@ -1,4 +1,4 @@
-public class Main {
+public class Main2 {
 
     public static int maximumWealth(int[][] accounts) {
 
